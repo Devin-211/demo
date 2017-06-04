@@ -13,7 +13,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            default-index
+            BootStrap-Demo
         </div>
 
         <div class="btn-group">
