@@ -13,7 +13,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            BootStrap-Demo1234568
+            BootStrap-Demo Github
         </div>
 
         <div class="btn-group">
