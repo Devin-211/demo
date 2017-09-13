@@ -12,7 +12,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-<h1>Github</h1>
+<h2>Github</h2>
         <div>
             BootStrap-Demo 
         </div>
