@@ -13,7 +13,7 @@
 		<asp:Button ID="Button1" runat="server" Text="序列化(Yaml)" OnClick="Button1_Click" />
     </div>
 	<div>
-		<asp:Button ID="Button2" runat="server" Text="反序列化(Yaml)" OnClick="Button2_Click" />
+		<asp:Button ID="Button2" runat="server" Text="rev反序列化(Yaml)" OnClick="Button2_Click" />
     </div>
     </form>
 </body>
